@@ -29,6 +29,9 @@ The program will:
 	- Generated waves with different conditions
 	- Target waves
 
+## Documentation
+
+https://docs.google.com/document/d/1d4EmjJ0d-jlzA7u5pJSucBmIHQVmo9qtPqGQ8y5slSM/edit?usp=sharing
 ## Relation to AlphaFold 3
 While vastly simplified, this implementation demonstrates the core concept of conditional generation used in AlphaFold 3:
 
